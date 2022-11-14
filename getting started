@@ -33,13 +33,13 @@
             document.write(result);
             document.write(linebreak);
          
-            a = ++a;
+            /*a = ++a;*/
             document.write("++a = ");
             result = ++a;
             document.write(result);
             document.write(linebreak);
          
-            b = --b;
+            /*b = --b;*/
             document.write("--b = ");
             result = --b;
             document.write(result);
